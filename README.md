@@ -1,0 +1,2 @@
+# quicktags-assets
+quicktags-assets
